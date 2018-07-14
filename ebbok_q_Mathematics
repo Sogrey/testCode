@@ -1,0 +1,328 @@
+{
+    "EndTime": "2018-07-14T15:18:57.033", 
+    "IsTypeAnswer": false, 
+    "LangTime": 0, 
+    "Paper": {
+        "AddTime": "2018年07月14日", 
+        "Hours": 100, 
+        "IsScoreShow": false, 
+        "PaperId": 47, 
+        "PaperTitle": "学生自主测试", 
+        "Questions": [ ], 
+        "StatusId": 0, 
+        "StudentId": 0, 
+        "SubjectId": 4, 
+        "TotalScore": "20", 
+        "TypePapers": {
+            "A": [
+                {
+                    "CNNumber": "一", 
+                    "Id": 57, 
+                    "Name": "选择题", 
+                    "OrderVal": 1, 
+                    "ParentId": 0, 
+                    "Questions": [
+                        {
+                            "ChildQType": 57, 
+                            "ChildQTypeName": "选择题", 
+                            "Contents": "<span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>3</span><span style='font-size:14px;font-family:宋体'>分）（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>2005</span><span style='font-size:14px;font-family:宋体'>春</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>?</span><span style='font-size:14px;font-family:宋体'>南县期末）下列因式分解正确的是（　　）</span></span>", 
+                            "CorrectStatus": 0, 
+                            "Id": "c74691a3-b618-4de2-ab89-b6459c7fa62f", 
+                            "IsCollect": false, 
+                            "IsPiGai": false, 
+                            "IsTeacherView": false, 
+                            "Items": [
+                                {
+                                    "Analysis": "<span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>3</span><span style='font-size:14px;font-family:宋体'>分）（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>2005</span><span style='font-size:14px;font-family:宋体'>春</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>?</span><span style='font-size:14px;font-family:宋体'>南县期末）下列因式分解正确的是（　　）</span></span>", 
+                                    "Answer": "", 
+                                    "AnswerStatus": 0, 
+                                    "Id": "beeff7ae-0c6d-4fa6-b17d-6e9067f8e4cc", 
+                                    "IsCorrect": false, 
+                                    "OptionCount": 0, 
+                                    "Options": [
+                                        {
+                                            "Answer": "<p>1<span style='font-size:14px;font-family:'Calibri','sans-serif''>mn</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>+mn=</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y+1</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>mn</span></p>", 
+                                            "Flag": "A", 
+                                            "Selected": false
+                                        }, 
+                                        {
+                                            "Answer": "<p>2<span style='font-size:14px;font-family:'Calibri','sans-serif''>mn</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>+mn=</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y+1</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>mn</span></p>", 
+                                            "Flag": "B", 
+                                            "Selected": false
+                                        }, 
+                                        {
+                                            "Answer": "<p><span style='font-size:14px;font-family:'Calibri','sans-serif''>4mn</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>+mn=</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y+1</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>mn</span></p>", 
+                                            "Flag": "C", 
+                                            "Selected": false
+                                        }, 
+                                        {
+                                            "Answer": "<p><span style='font-size:14px;font-family:'Calibri','sans-serif''>3mn</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>+mn=</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y+1</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>mn</span></p>", 
+                                            "Flag": "D", 
+                                            "Selected": false
+                                        }
+                                    ], 
+                                    "ParentId": "c74691a3-b618-4de2-ab89-b6459c7fa62f", 
+                                    "QType": 1, 
+                                    "RightAnswer": "", 
+                                    "Score": 0, 
+                                    "SerialNum": 1, 
+                                    "StuAnswers": [ ], 
+                                    "StudentScore": 0, 
+                                    "Title": "<span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>3</span><span style='font-size:14px;font-family:宋体'>分）（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>2005</span><span style='font-size:14px;font-family:宋体'>春</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>?</span><span style='font-size:14px;font-family:宋体'>南县期末）下列因式分解正确的是（　　）</span></span>"
+                                }
+                            ], 
+                            "Points": [ ], 
+                            "QType": 1, 
+                            "QuestionNo": 1, 
+                            "ResCode": "15565", 
+                            "Score": 5, 
+                            "SubjectId": 0, 
+                            "UserType": 3
+                        }, 
+                        {
+                            "ChildQType": 57, 
+                            "ChildQTypeName": "选择题", 
+                            "Contents": "<span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>3</span><span style='font-size:14px;font-family:宋体'>分）（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>2005</span><span style='font-size:14px;font-family:宋体'>春</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>?</span><span style='font-size:14px;font-family:宋体'>南县期末）下列因式分解正确的是（　　）</span></span>", 
+                            "CorrectStatus": 0, 
+                            "Id": "357de4f7-0358-4e4b-bab5-bccaef46211a", 
+                            "IsCollect": false, 
+                            "IsPiGai": false, 
+                            "IsTeacherView": false, 
+                            "Items": [
+                                {
+                                    "Analysis": "<span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>3</span><span style='font-size:14px;font-family:宋体'>分）（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>2005</span><span style='font-size:14px;font-family:宋体'>春</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>?</span><span style='font-size:14px;font-family:宋体'>南县期末）下列因式分解正确的是（　　）</span></span>", 
+                                    "Answer": "", 
+                                    "AnswerStatus": 0, 
+                                    "Id": "c22ba4da-3fe6-4bbd-b99a-14d536e7e811", 
+                                    "IsCorrect": false, 
+                                    "OptionCount": 0, 
+                                    "Options": [
+                                        {
+                                            "Answer": "<p>1<span style='font-size:14px;font-family:'Calibri','sans-serif''>mn</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>+mn=</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y+1</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>mn</span></p>", 
+                                            "Flag": "A", 
+                                            "Selected": false
+                                        }, 
+                                        {
+                                            "Answer": "<p>2<span style='font-size:14px;font-family:'Calibri','sans-serif''>mn</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>+mn=</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y+1</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>mn</span></p>", 
+                                            "Flag": "B", 
+                                            "Selected": false
+                                        }, 
+                                        {
+                                            "Answer": "<p><span style='font-size:14px;font-family:'Calibri','sans-serif''>4mn</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>+mn=</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y+1</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>mn</span></p>", 
+                                            "Flag": "C", 
+                                            "Selected": false
+                                        }, 
+                                        {
+                                            "Answer": "<p><span style='font-size:14px;font-family:'Calibri','sans-serif''>3mn</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>+mn=</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x+y+1</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>mn</span></p>", 
+                                            "Flag": "D", 
+                                            "Selected": false
+                                        }
+                                    ], 
+                                    "ParentId": "357de4f7-0358-4e4b-bab5-bccaef46211a", 
+                                    "QType": 1, 
+                                    "RightAnswer": "", 
+                                    "Score": 0, 
+                                    "SerialNum": 1, 
+                                    "StuAnswers": [ ], 
+                                    "StudentScore": 0, 
+                                    "Title": "<span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>3</span><span style='font-size:14px;font-family:宋体'>分）（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>2005</span><span style='font-size:14px;font-family:宋体'>春</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>?</span><span style='font-size:14px;font-family:宋体'>南县期末）下列因式分解正确的是（　　）</span></span>"
+                                }
+                            ], 
+                            "Points": [ ], 
+                            "QType": 1, 
+                            "QuestionNo": 2, 
+                            "ResCode": "15565", 
+                            "Score": 5, 
+                            "SubjectId": 0, 
+                            "UserType": 3
+                        }, 
+                        {
+                            "ChildQType": 57, 
+                            "ChildQTypeName": "选择题", 
+                            "Contents": "<span><span style='font-size:14px;font-family:宋体'>根据二次根式的性质和分式有意义的条件，被开方数大于或等于</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>0</span><span style='font-size:14px;font-family:宋体'>，分母不为</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>0</span><span style='font-size:14px;font-family:宋体'>，式子才有意义即可求解．</span></span>", 
+                            "CorrectStatus": 0, 
+                            "Id": "9d7dba71-f48d-43a9-902a-e673885908c2", 
+                            "IsCollect": false, 
+                            "IsPiGai": false, 
+                            "IsTeacherView": false, 
+                            "Items": [
+                                {
+                                    "Analysis": "<span><span style='font-size:14px;font-family:宋体'>根据二次根式的性质和分式有意义的条件，被开方数大于或等于</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>0</span><span style='font-size:14px;font-family:宋体'>，分母不为</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>0</span><span style='font-size:14px;font-family:宋体'>，式子才有意义即可求解．</span></span>", 
+                                    "Answer": "", 
+                                    "AnswerStatus": 0, 
+                                    "Id": "5a8e8f36-0ba2-497f-9773-e63ea0f93000", 
+                                    "IsCorrect": false, 
+                                    "OptionCount": 0, 
+                                    "Options": [
+                                        {
+                                            "Answer": "<p>1</p>", 
+                                            "Flag": "A", 
+                                            "Selected": false
+                                        }, 
+                                        {
+                                            "Answer": "<p>2</p>", 
+                                            "Flag": "B", 
+                                            "Selected": false
+                                        }, 
+                                        {
+                                            "Answer": "<p>3</p>", 
+                                            "Flag": "C", 
+                                            "Selected": false
+                                        }, 
+                                        {
+                                            "Answer": "<p>4</p>", 
+                                            "Flag": "D", 
+                                            "Selected": false
+                                        }
+                                    ], 
+                                    "ParentId": "9d7dba71-f48d-43a9-902a-e673885908c2", 
+                                    "QType": 1, 
+                                    "RightAnswer": "", 
+                                    "Score": 0, 
+                                    "SerialNum": 1, 
+                                    "StuAnswers": [ ], 
+                                    "StudentScore": 0, 
+                                    "Title": "<span><span style='font-size:14px;font-family:宋体'>根据二次根式的性质和分式有意义的条件，被开方数大于或等于</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>0</span><span style='font-size:14px;font-family:宋体'>，分母不为</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>0</span><span style='font-size:14px;font-family:宋体'>，式子才有意义即可求解．</span></span>"
+                                }
+                            ], 
+                            "Points": [ ], 
+                            "QType": 1, 
+                            "QuestionNo": 3, 
+                            "ResCode": "15564", 
+                            "Score": 5, 
+                            "SubjectId": 0, 
+                            "UserType": 3
+                        }, 
+                        {
+                            "ChildQType": 57, 
+                            "ChildQTypeName": "选择题", 
+                            "Contents": "<span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>3</span><span style='font-size:14px;font-family:宋体'>分）（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>2005</span><span style='font-size:14px;font-family:宋体'>春</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>?</span><span style='font-size:14px;font-family:宋体'>南县期末）下列各式计算正确的（　　）</span></span>", 
+                            "CorrectStatus": 0, 
+                            "Id": "86d5e743-c6c9-4f85-871f-f8acc5dde8d4", 
+                            "IsCollect": false, 
+                            "IsPiGai": false, 
+                            "IsTeacherView": false, 
+                            "Items": [
+                                {
+                                    "Analysis": "<span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>3</span><span style='font-size:14px;font-family:宋体'>分）（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>2005</span><span style='font-size:14px;font-family:宋体'>春</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>?</span><span style='font-size:14px;font-family:宋体'>南县期末）下列各式计算正确的（　　）</span></span>", 
+                                    "Answer": "", 
+                                    "AnswerStatus": 0, 
+                                    "Id": "42d1eb8a-4b5c-410b-afa9-2f6e6c950812", 
+                                    "IsCorrect": false, 
+                                    "OptionCount": 0, 
+                                    "Options": [
+                                        {
+                                            "Answer": "<p><span style='font-size:14px;font-family:'Calibri','sans-serif''>m</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x</span><span style='font-size:14px;font-family:宋体'>﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>y</span><span style='font-size:14px;font-family:宋体'>）﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>n</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>y</span><span style='font-size:14px;font-family:宋体'>﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>=</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x</span><span style='font-size:14px;font-family:宋体'>﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>y</span><span style='font-size:14px;font-family:宋体'>）（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>m+n</span><span style='font-size:14px;font-family:宋体'>）</span></p>", 
+                                            "Flag": "A", 
+                                            "Selected": false
+                                        }, 
+                                        {
+                                            "Answer": "<p><span style='font-size:14px;font-family:'Calibri','sans-serif''>m</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x</span><span style='font-size:14px;font-family:宋体'>﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>y</span><span style='font-size:14px;font-family:宋体'>）﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>n</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>y</span><span style='font-size:14px;font-family:宋体'>﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>=</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x</span><span style='font-size:14px;font-family:宋体'>﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>y</span><span style='font-size:14px;font-family:宋体'>）（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>m+n</span><span style='font-size:14px;font-family:宋体'>）</span></p>", 
+                                            "Flag": "B", 
+                                            "Selected": false
+                                        }, 
+                                        {
+                                            "Answer": "<p><span style='font-size:14px;font-family:'Calibri','sans-serif''>m</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x</span><span style='font-size:14px;font-family:宋体'>﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>y</span><span style='font-size:14px;font-family:宋体'>）﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>n</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>y</span><span style='font-size:14px;font-family:宋体'>﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>=</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x</span><span style='font-size:14px;font-family:宋体'>﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>y</span><span style='font-size:14px;font-family:宋体'>）（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>m+n</span><span style='font-size:14px;font-family:宋体'>）</span></p>", 
+                                            "Flag": "C", 
+                                            "Selected": false
+                                        }, 
+                                        {
+                                            "Answer": "<p><span style='font-size:14px;font-family:'Calibri','sans-serif''>m</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x</span><span style='font-size:14px;font-family:宋体'>﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>y</span><span style='font-size:14px;font-family:宋体'>）﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>n</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>y</span><span style='font-size:14px;font-family:宋体'>﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x</span><span style='font-size:14px;font-family:宋体'>）</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>=</span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>x</span><span style='font-size:14px;font-family:宋体'>﹣</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>y</span><span style='font-size:14px;font-family:宋体'>）（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>m+n</span><span style='font-size:14px;font-family:宋体'>）</span></p>", 
+                                            "Flag": "D", 
+                                            "Selected": false
+                                        }
+                                    ], 
+                                    "ParentId": "86d5e743-c6c9-4f85-871f-f8acc5dde8d4", 
+                                    "QType": 1, 
+                                    "RightAnswer": "", 
+                                    "Score": 0, 
+                                    "SerialNum": 1, 
+                                    "StuAnswers": [ ], 
+                                    "StudentScore": 0, 
+                                    "Title": "<span><span style='font-size:14px;font-family:宋体'>（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>3</span><span style='font-size:14px;font-family:宋体'>分）（</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>2005</span><span style='font-size:14px;font-family:宋体'>春</span><span style='font-size:14px;font-family:'Calibri','sans-serif''>?</span><span style='font-size:14px;font-family:宋体'>南县期末）下列各式计算正确的（　　）</span></span>"
+                                }
+                            ], 
+                            "Points": [ ], 
+                            "QType": 1, 
+                            "QuestionNo": 4, 
+                            "ResCode": "15566", 
+                            "Score": 5, 
+                            "SubjectId": 0, 
+                            "UserType": 3
+                        }
+                    ], 
+                    "QusetionCount": 4, 
+                    "Score": 20, 
+                    "SubjectId": 0, 
+                    "SubjectName": 0
+                }
+            ]
+        }, 
+        "isMultipaper": false, 
+        "stuid": 0
+    }, 
+    "StartTime": "2018-07-14T15:18:57.033", 
+    "StatusId": 0, 
+    "StudentId": 8681, 
+    "UserLang": 0, 
+    "answerCard": {
+        "PaperId": 47, 
+        "Questions": [
+            {
+                "ChildQType": 57, 
+                "Id": "c74691a3-b618-4de2-ab89-b6459c7fa62f", 
+                "Items": [
+                    {
+                        "Answer": "null", 
+                        "AnswerStatus": 2, 
+                        "Id": "beeff7ae-0c6d-4fa6-b17d-6e9067f8e4cc"
+                    }
+                ], 
+                "QType": 1
+            }, 
+            {
+                "ChildQType": 57, 
+                "Id": "357de4f7-0358-4e4b-bab5-bccaef46211a", 
+                "Items": [
+                    {
+                        "Answer": "null", 
+                        "AnswerStatus": 2, 
+                        "Id": "c22ba4da-3fe6-4bbd-b99a-14d536e7e811"
+                    }
+                ], 
+                "QType": 1
+            }, 
+            {
+                "ChildQType": 57, 
+                "Id": "9d7dba71-f48d-43a9-902a-e673885908c2", 
+                "Items": [
+                    {
+                        "Answer": "null", 
+                        "AnswerStatus": 2, 
+                        "Id": "5a8e8f36-0ba2-497f-9773-e63ea0f93000"
+                    }
+                ], 
+                "QType": 1
+            }, 
+            {
+                "ChildQType": 57, 
+                "Id": "86d5e743-c6c9-4f85-871f-f8acc5dde8d4", 
+                "Items": [
+                    {
+                        "Answer": "null", 
+                        "AnswerStatus": 2, 
+                        "Id": "42d1eb8a-4b5c-410b-afa9-2f6e6c950812"
+                    }
+                ], 
+                "QType": 1
+            }
+        ], 
+        "StatusId": 4, 
+        "StudentId": 8681, 
+        "StudentName": "张晓杰", 
+        "UserLang": 0, 
+        "stuid": 8681
+    }, 
+    "error": "", 
+    "error_code": -1
+}
